@@ -1,2 +1,2 @@
 # seneca-designs
-Good Luck Webmasters
+Responsive website for Ericx International Inc. complete.
